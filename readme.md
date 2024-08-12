@@ -5,11 +5,11 @@
 # 💫 About Me:
 <img
       align="right"
-      width="400"
+      width="405"
       src="https://i.pinimg.com/originals/9c/c5/3d/9cc53d773b11df8bf93737eef1b0757b.gif"
       alt=""
     />
-🌱 I’m currently learning <strong>Backend With JS</strong><br><br>💬 Ask me about <strong>any Frontend topics(ReactJS)</strong><br><br>📫 How to reach me polleyrounak43@gmail.com<br><br>⚡ Fun fact: <strong>I’m an anime fan with a knack for coding</strong>
+🌱 I’m currently learning <strong>Backend With JS</strong><br><br>💬 Ask me about <strong>any Frontend topics(ReactJS)</strong><br><br>📫 How to reach me polleyrounak43@gmail.com<br><br>⚡ Fun fact: <strong>I’m an anime fan with a knack for coding</strong><br/><br/>
 
 
 ## 🌐 Socials:
